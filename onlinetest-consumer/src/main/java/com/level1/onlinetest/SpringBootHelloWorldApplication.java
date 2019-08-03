@@ -12,7 +12,7 @@ import com.level1.onlinetest.controllers.ConsumerControllerClient;
 
 @SpringBootApplication
 public class SpringBootHelloWorldApplication {
-
+    
 	public static void main(String[] args) throws RestClientException, IOException {
 		ApplicationContext ctx = SpringApplication.run(
 				SpringBootHelloWorldApplication.class, args);
