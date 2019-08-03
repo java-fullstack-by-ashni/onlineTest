@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: onlinetest-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ashni
+Implementation-Vendor-Id: com.level1.onlinetest
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/onlinetest-c
+ onsumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
